@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[21110,["3862","static/chunks/1a258343-5938f676ed376386.js","1051","static/chunks/1051-a02f07646d97d6ca.js","1321","static/chunks/1321-df713702f2332bbc.js","5497","static/chunks/5497-0ccbf527ad75798f.js","9305","static/chunks/app/(dashboard)/layout-d21522c80be3d34e.js"],"ThemeProvider"]
+3:I[94635,["1321","static/chunks/1321-df713702f2332bbc.js","7177","static/chunks/app/layout-9d53d091147bb420.js"],"RuntimeI18nProvider"]
+4:I[57121,[],""]
+5:I[74581,[],""]
+:HL["/_next/static/css/205e5a92d1ff2155.css","style"]
+:HL["/_next/static/css/b3b54ac9084a6b55.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/205e5a92d1ff2155.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/b3b54ac9084a6b55.css","precedence":"next"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"if(document.fonts&&document.fonts.ready){document.fonts.ready.then(function(){document.documentElement.classList.add('fonts-loaded')})}else{document.documentElement.classList.add('fonts-loaded')}"}}]}],["$","body",null,{"className":"__variable_f367f3 font-sans antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]}]}]}]]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"WyjS4Gx7AM_SjSCA-PcZb"}

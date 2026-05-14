@@ -1,0 +1,1 @@
+globalThis.__RSC_MANIFEST=(globalThis.__RSC_MANIFEST||{});globalThis.__RSC_MANIFEST["/api/cloud/auth/route"]={"moduleLoading":{"prefix":"/_next/"},"ssrModuleMapping":{},"edgeSSRModuleMapping":{},"clientModules":{},"entryCSSFiles":{"C:\\Users\\Mimi\\OneDrive\\Desktop\\Projetos\\gits\\9router\\src\\app\\api\\cloud\\auth\\route":[]},"rscModuleMapping":{},"edgeRscModuleMapping":{}};
