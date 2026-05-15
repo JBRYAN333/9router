@@ -5,3 +5,4 @@ DISPLAY_NAME=9Router-Cloud
 DESCRIPTION=9Router em 1.5GB de RAM (ClawSec Ninja Build)
 AUTORESTART=true
 STRATEGY=static
+SUBDOMAIN=protagrouter
