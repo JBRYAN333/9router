@@ -1,8 +1,7 @@
-MAIN=next.config.mjs
-MEMORY=1536
+MAIN=main_file.js
+MEMORY=512
 VERSION=recommended
 DISPLAY_NAME=9Router-Cloud
-DESCRIPTION=9Router em 1.5GB de RAM (ClawSec Ninja Build)
+DESCRIPTION=9Router - Smart AI Router
 SUBDOMAIN=protagrouter
 AUTORESTART=true
-START=npm run build && node .next/standalone/server.js
